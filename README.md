@@ -59,10 +59,17 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   </a>
   
+ <!-- Google Firebase -->
+<a href="https://firebase.google.com/" rel="nofollow"> 
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Google Firebase" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  
 <!-- Niagahoster -->
 <a href="https://www.niagahoster.co.id/" rel="nofollow"> 
-<img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="NIagahoster" height="45" style="vertical-align:top; margin:4px">
+<img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="Niagahoster" height="45" style="vertical-align:top; margin:4px">
   </a>
+  
+
   
 
  </p>
@@ -84,8 +91,9 @@
   <p>
 
 ### Statistic :chart_with_upwards_trend:
-![Hafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafidAlAzhar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidAlAzhar&layout=compact&theme=tokyonight)
+![Hafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidalazhar25&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidalazhar25&layout=compact&theme=tokyonight)
+[![Hafid's github activity graph](https://activity-graph.herokuapp.com/graph?username=hafidalazhar25&bg_color=1A1B27&color=70A4FC&line=70A4FC&point=FFFFFF&hide_border=true&)](https://github.com/hafidalazhar25/github-readme-activity-graph)
 
 
   
