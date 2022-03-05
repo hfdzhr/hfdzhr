@@ -61,7 +61,7 @@
   
 <!-- Niagahoster -->
 <a href="https://www.niagahoster.co.id/" rel="nofollow"> 
-<img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="NIagahoster" width="4%" style="vertical-align:top; margin:4px">
+<img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="NIagahoster" height="45" style="vertical-align:top; margin:4px">
   </a>
   
 
