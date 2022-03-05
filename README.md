@@ -1,3 +1,7 @@
+## [![hafid's header](https://waifu2x.booru.pics/outfiles/eb09d6b6032d885d1343c1fae028ddfb0b8fcb10_s2_n1.jpg)](https://hafidalazhar25.github.io/)
+
+
+
 ### Hi there 👋Im Hafid
 
 ### About Me 👨🏻
@@ -39,6 +43,11 @@
  <a href="https://getbootstrap.com/" rel="nofollow"> 
 <img src="https://camo.githubusercontent.com/e76db96833cc2ba21cac7145b4446a5673a4e70026e0b215ab48b21ad9532648/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62322f426f6f7473747261705f6c6f676f2e737667" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"> 
  </a>
+  
+<!-- Google Font -->
+<a href="https://fonts.google.com/" rel="nofollow"> 
+<img src="https://camo.githubusercontent.com/eaf8c05be43c766f7a06cfc2885077ccfe0756ed496121314872aec4953bb6af/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f676f6f676c652d666f6e74732d323032312d322e737667" alt="Google Font" height="40" style="vertical-align:top; margin:4px">
+  </a>
  
 <!--  VS Code  -->
 <a href="https://code.visualstudio.com/" rel="nofollow"> 
@@ -49,6 +58,13 @@
 <a href="https://git-scm.com/" rel="nofollow"> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   </a>
+  
+<!-- Niagahoster -->
+<a href="https://www.niagahoster.co.id/" rel="nofollow"> 
+<img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="NIagahoster" width="4%" style="vertical-align:top; margin:4px">
+  </a>
+  
+
  </p>
 
 ### Connect With Me 	:handshake:
