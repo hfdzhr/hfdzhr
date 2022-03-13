@@ -64,6 +64,11 @@
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Google Firebase" height="40" style="vertical-align:top; margin:4px">
   </a>
   
+ <!-- Netlify -->
+<a href="https://www.netlify.com/" rel="nofollow"> 
+<img src="https://www.netlify.com/v3/img/components/logomark.svg" alt="Google Firebase" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  
 <!-- Niagahoster -->
 <a href="https://www.niagahoster.co.id/" rel="nofollow"> 
 <img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="Niagahoster" height="45" style="vertical-align:top; margin:4px">
