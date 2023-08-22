@@ -43,6 +43,15 @@
  <a href="https://getbootstrap.com/" rel="nofollow"> 
 <img src="https://camo.githubusercontent.com/e76db96833cc2ba21cac7145b4446a5673a4e70026e0b215ab48b21ad9532648/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62322f426f6f7473747261705f6c6f676f2e737667" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"> 
  </a>
+
+ <!-- Tailwind CSS -->
+<a href="https://tailwindcss.com/" rel="nofollow"> 
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind CSS" height="35" style="vertical-align:top; margin:4px">
+  </a>
+
+<a href="https://vuejs.org/" rel="nofollow"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue JS" height="35" style="vertical-align:top; margin:4px">
+  </a>
   
 <!-- Google Font -->
 <a href="https://fonts.google.com/" rel="nofollow"> 
@@ -73,6 +82,8 @@
 <a href="https://www.niagahoster.co.id/" rel="nofollow"> 
 <img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="Niagahoster" height="45" style="vertical-align:top; margin:4px">
   </a>
+
+
   
 
   
