@@ -107,9 +107,8 @@
   <p>
 
 ### Statistic :chart_with_upwards_trend:
-![Hafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidalazhar25&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidalazhar25&layout=compact&theme=tokyonight)
-[![Hafid's github activity graph](https://activity-graph.herokuapp.com/graph?username=hafidalazhar25&bg_color=1A1B27&color=70A4FC&line=70A4FC&point=FFFFFF&hide_border=true&)](https://github.com/hafidalazhar25/github-readme-activity-graph)
+![Hafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzhr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfdzhr&layout=compact&theme=tokyonight)
 
 
   
