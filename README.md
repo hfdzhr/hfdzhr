@@ -8,9 +8,9 @@
 
 - 👨🏻‍💼 My name is <code>Hafid Al Azhar</code>
 - 🏠 Live in <code>Bandung, Indonesia</code>
-- 🧍🏻‍♂️ <code>16</code> years old
+- 🧍🏻‍♂️ <code>17</code> years old
 - 💻 <code>Software Engineering</code> Student at <code>Assalaam Vocational High School</code>
-- 🌟 Maybe, <code>Phyton</code> is my favorite language 
+- 🌟 Maybe, <code>JavaScript</code> is my favorite language 
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
