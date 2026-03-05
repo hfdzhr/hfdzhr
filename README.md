@@ -26,7 +26,7 @@
 | **Tools & Editors** | <a href="https://code.visualstudio.com/" rel="nofollow"><img src="/assets/logo/vscode_logo.svg" alt="VS Code" height="30"></a> <a href="https://git-scm.com/" rel="nofollow"><img src="/assets/logo/git_logo.svg" alt="Git" height="30"></a> <a href="https://www.jetbrains.com/idea/" rel="nofollow"><img src="/assets/logo/intelij_svg.svg" alt="IntelliJ" height="30"></a> <a href="https://www.linux.org/" rel="nofollow"><img src="/assets/logo/linux_logo.svg" alt="Linux" height="30"></a> |
 | **Platforms & Services** | <a href="https://www.cloudflare.com/" rel="nofollow"><img src="/assets/logo/cloudflare_logo.svg" alt="Cloudflare" height="30"></a> <a href="https://www.postgresql.org/" rel="nofollow"><img src="/assets/logo/potgresql_logo.svg" alt="PostgreSQL" height="30"></a> <a href="https://www.mysql.com/" rel="nofollow"><img src="/assets/logo/mysql_logo.svg" alt="MySQL" height="30"></a> |
 
-### Connect With Me 	:handshake:
+### Connect With Me 🤝
 <p align="center">
 <a href="https://facebook.com/hafidal.azhar.9/" rel="nofollow">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
