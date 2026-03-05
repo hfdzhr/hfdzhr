@@ -23,8 +23,8 @@
 |----------|--------------|
 | **Languages** | <a href="https://html.spec.whatwg.org/" rel="nofollow"><img src="/assets/logo/html_logo.svg" alt="HTML" height="30"></a> <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="/assets/logo/css_logo.svg" alt="CSS" height="30"></a> <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" rel="nofollow"><img src="/assets/logo/javascript_logo.svg" alt="JavaScript" height="30"></a> <a href="https://www.php.net/" rel="nofollow"><img src="/assets/logo/php_logo.svg" alt="PHP" height="30"></a> |
 | **Frameworks & Libraries** | <a href="https://getbootstrap.com/" rel="nofollow"><img src="/assets/logo/bootstrap_logo.svg" alt="Bootstrap" height="30"></a> <a href="https://tailwindcss.com/" rel="nofollow"><img src="/assets/logo/tailwindcss_logo.svg" alt="Tailwind CSS" height="30"></a> <a href="https://vuejs.org/" rel="nofollow"><img src="/assets/logo/vue_logo.svg" alt="Vue.js" height="30"></a> <a href="https://nuxt.com/" rel="nofollow"><img src="/assets/logo/nuxtjs_logo.svg" alt="Nuxt.js" height="30"></a> <a href="https://laravel.com/" rel="nofollow"><img src="/assets/logo/laravel_logo.svg" alt="Laravel" height="30"></a> |
-| **Tools & Editors** | <a href="https://code.visualstudio.com/" rel="nofollow"><img src="/assets/logo/vscode_logo.svg" alt="VS Code" height="30"></a> <a href="https://git-scm.com/" rel="nofollow"><img src="/assets/logo/git_logo.svg" alt="Git" height="30"></a> |
-| **Platforms & Services** | <a href="https://www.cloudflare.com/" rel="nofollow"><img src="/assets/logo/cloudflare_logo.svg" alt="Cloudflare" height="30"></a> <a href="https://www.postgresql.org/" rel="nofollow"><img src="/assets/logo/potgresql_logo.svg" alt="PostgreSQL" height="30"></a> |
+| **Tools & Editors** | <a href="https://code.visualstudio.com/" rel="nofollow"><img src="/assets/logo/vscode_logo.svg" alt="VS Code" height="30"></a> <a href="https://git-scm.com/" rel="nofollow"><img src="/assets/logo/git_logo.svg" alt="Git" height="30"></a> <a href="https://www.jetbrains.com/idea/" rel="nofollow"><img src="/assets/logo/intelij_svg.svg" alt="IntelliJ" height="30"></a> <a href="https://www.linux.org/" rel="nofollow"><img src="/assets/logo/linux_logo.svg" alt="Linux" height="30"></a> |
+| **Platforms & Services** | <a href="https://www.cloudflare.com/" rel="nofollow"><img src="/assets/logo/cloudflare_logo.svg" alt="Cloudflare" height="30"></a> <a href="https://www.postgresql.org/" rel="nofollow"><img src="/assets/logo/potgresql_logo.svg" alt="PostgreSQL" height="30"></a> <a href="https://www.mysql.com/" rel="nofollow"><img src="/assets/logo/mysql_logo.svg" alt="MySQL" height="30"></a> |
 
 ### Connect With Me 	:handshake:
 <p align="center">
@@ -41,11 +41,6 @@
   <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />
 </a>
   <p>
-
-### Statistic :chart_with_upwards_trend:
-![Hafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzhr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfdzhr&layout=compact&theme=tokyonight)
-
 
   
   
